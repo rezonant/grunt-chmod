@@ -40,6 +40,6 @@
     "permissions"
   ],
   "dependencies": {
-    "shelljs": "^0.5.3"
+    "shelljs": "git+https://github.com/rezonant/shelljs.git"
   }
 }
